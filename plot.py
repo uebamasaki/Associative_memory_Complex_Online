@@ -24,7 +24,7 @@ for i, label in enumerate(labels, start=1):
 
 plt.title("")
 plt.xlabel("Phase")
-plt.ylabel("同期率")
+plt.ylabel("想起度")
 plt.legend()
 
 # グラフをPDFに保存
